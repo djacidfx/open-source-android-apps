@@ -19,6 +19,16 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Aurora Store](https://auroraoss.com/) - Unofficial FOSS client to Google Play Store (Root permission is optional).
 - [Foxy Droid](https://github.com/kitsunyan/foxy-droid) - Yet another F-Droid client.
 
+  ## Ad blocking
+
+- [AdAway](https://adaway.org/) - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended).
+- [Blokada](https://blokada.org/) - Ad blocker for Android using the VPN API.
+- [DNSfilter](https://www.zenz-solutions.de/personaldnsfilter/) - Ad blocker for Android using a VPN, supports hosts files.
+- [DNS66](https://jak-linux.org/projects/dns66/) - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts.
+- [NetGuard](https://github.com/M66B/NetGuard) - NetGuard provides simple and advanced ways to block access to the internet - no root required.
+- [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android. 
+
+
 ## Basic Utilities
 
 - [Binary Eye](https://github.com/markusfisch/BinaryEye) - Barcode and QR code scanner without ads
