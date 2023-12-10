@@ -1,4 +1,4 @@
-
+# Some of these may be outdated or not being maintained but we will be working soon to sort this out.
 # Why?
 > This is a collection of Android Apps which are open source.  
 > I believe that we can find something interesting and gain helpful skills from an open source app.  
