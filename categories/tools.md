@@ -1,5 +1,20 @@
 
-## Tools  
+## Tools & Utilities
+## Basic Utilities
+
+- [Binary Eye](https://github.com/markusfisch/BinaryEye) - Barcode and QR code scanner without ads
+- [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/) - It is a material designed open source calendar.
+- [Koler](https://github.com/Chooloo/koler) - A uniquely stylized phone app, with customizable features - for Android.
+- [Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) - A calculator for your quick calculations.
+- [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) - Be notified of the important moments in your life.
+- [Simple Clock](https://f-droid.org/en/packages/com.simplemobiletools.clock/) - A combination of a clock, alarm, stopwatch and timer.
+- [Simple Contacts](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) - A premium app for contact management with no ads, supports groups and favorites.
+- [Simple Dialer](https://f-droid.org/en/packages/com.simplemobiletools.dialer/) - A handy phone call manager with phonebook, number blocking and multi-SIM support.
+- [Simple Flashlight](https://f-droid.org/en/packages/com.simplemobiletools.flashlight/) - A simple flashlight without ads.
+- [Simple Voice Recorder](https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder/) - An easy way of recording any discussion or sounds without ads or internet access.
+- [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
+- [Video-Transcoder](https://github.com/brarcher/video-transcoder) - Android app for video and audio transcoder, based on FFmpeg
+    
 ### \#   
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
