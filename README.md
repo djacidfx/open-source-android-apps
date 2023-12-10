@@ -2,7 +2,6 @@
 # Why?
 > This is a collection of Android Apps which are open source.  
 > I believe that we can find something interesting and gain helpful skills from an open source app.  
-> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps)
 
 
 # How?
