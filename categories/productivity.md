@@ -1,4 +1,9 @@
 ## Productivity  
+### Other
+
+- [KDE Connect](https://community.kde.org/KDEConnect) - A project that enables all your devices to communicate with each other.
+- [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE.
+  
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
