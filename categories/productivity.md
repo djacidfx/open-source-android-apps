@@ -1,4 +1,36 @@
-## Productivity  
+## Productivity
+
+- [Bodhi Timer](https://github.com/yuttadhammo/BodhiTimer) - It is an elegant, minimalist countdown timer.
+- [Catima](https://github.com/TheLastProject/Catima) - A loyalty card / gift card / ticket app.
+- [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) - A diary application optimized for user experience.
+- [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
+- [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
+- [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits/) - Track your habits and long-term goals.
+- [neutriNote](https://github.com/appml/neutrinote) - neutriNote - Markdown + Math in Just 3 MB! 
+- [Noteless](https://github.com/redsolver/noteless) - A markdown note-taking app for mobile devices.
+- [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
+- [OpenTracks](https://opentracksapp.com/) - OpenTracks is a sport tracking application that completely respects your privacy. 
+- [Privacy Friendly Pausing Healthily](https://github.com/SecUSo/privacy-friendly-2048) - An open source work break timer with simple exercises to perform
+- [Privacy Friendly QR Scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner) - A QR / bar code scanner
+- [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
+- [Tasks](https://tasks.org/) - A To-Do list app based on Astrid To-Do list app.
+- [DioHub](https://github.com/NamanShergill/diohub) - Interact with GitHub from mobile.
+
+  ## Streaming
+
+- [LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
+- [NewPipe](https://newpipe.schabi.org/) - Lightweight Google-free YouTube client.
+- [SkyTube](https://skytube-app.com/) - An open-source YouTube™ app for Android™.
+- [Twire](https://github.com/twireapp/Twire) - An Open Source, AD-Free Twitch browser and stream player for Android. Supports VODs with chat replay, custom emotes (BTTV and FFZ) and Picture in Picture mode. A fork of Pocket Plays for Twitch.
+
+## VPN
+
+- [Mullvad](https://mullvad.net/en/) - Mullvad was founded in 2009 purely with the ambition of upholding the universal right to privacy – for you, for us, for everyone. And not only that, we want to make Internet censorship and mass surveillance ineffective.
+- [OpenVPN for Android](https://f-droid.org/en/packages/de.blinkt.openvpn/) - OpenVPN without root.
+- [WireGuard](https://git.zx2c4.com/wireguard-android/about/) -  an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
+- [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
+- [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**).
+  
 ### Other
 
 - [KDE Connect](https://community.kde.org/KDEConnect) - A project that enables all your devices to communicate with each other.
