@@ -1,4 +1,9 @@
 ## Education  
+
+- [AnkiDroid](https://github.com/ankidroid/Anki-Android) - Anki flashcards on Android.
+- [phyphox](https://phyphox.org/) - Sensors and data analyser.
+- [Wikipedia](https://www.mediawiki.org/wiki/Wikimedia_Apps#Download_the_Apps) - Official Wikipedia app for Android.
+  
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
