@@ -1,4 +1,16 @@
+## Update
 
+- [Andor's Trail](https://f-droid.org/en/packages/com.gpl.rpg.AndorsTrail/) - Quest-driven Roguelike fantasy dungeon crawler RPG with a powerful story.
+- [Apple Flinger](https://f-droid.org/en/packages/com.gitlab.ardash.appleflinger.android/) - Use a slingshot to shoot with apples.
+- [Mindustry](https://anuke.itch.io/mindustry) - Mindustry is a hybrid tower-defense sandbox factory game.
+- [Minetest](https://www.minetest.net/) - An open source voxel game engine. Basically, a FOSS alternative of Minecraft.
+- [Privacy Friendly 2048](https://github.com/SecUSo/privacy-friendly-2048) - An open source 2048 implementation.
+- [Shattered Pixel Dungeon](https://shatteredpixel.com/) - Roguelike Dungeon Crawler RPG with pixel art graphics. Every game is a unique challenge, with four different playable characters, randomized levels and enemies, and hundreds of items to collect and use.
+- [UnCiv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
+- [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia) - Solve ice puzzles and defeat enemies in an RPG world.
+- [Droidfish](https://github.com/peterosterlund2/droidfish) - DroidFish is a feature-rich graphical chess user interface, combined with the very strong Stockfish chess engine.
+- [Lichobile](https://lichess.org/mobile) - Lichess mobile is the lichess.org official application.
+  
 ## Game  
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
