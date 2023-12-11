@@ -3,6 +3,23 @@
 
 - [KDE Connect](https://community.kde.org/KDEConnect) - A project that enables all your devices to communicate with each other.
 - [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE.
+
+## Office
+- [Collabora Office](https://www.collaboraoffice.com/release-news/collabora-office-android-beta/) - Office suite available for Android, GNU/Linux, iOS, macOS, Windows.
+
+  ### General 
+
+- [Bitwarden](https://github.com/bitwarden/mobile) - Free and open-source, cross-platform password manager available via cloud/self-hosting. NOTE: To download on F-Droid you need to add the [Bitwarden repository](https://mobileapp.bitwarden.com/fdroid/). Manual vault syncing is required with that version.
+- [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass2Android is an open source password manager compatible with KeePass (v1 and v2), KeePassXC, MiniKeePass and many other KeePass ports.
+- [KeePassDX](https://www.keepassdx.com) - FOSS password manager compatible with .kdb and .kdbx files version 1-4 and a majority of KeePass programs.
+- [Master Password](https://masterpassword.app/) - A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it.
+- [Password Store](https://f-droid.org/en/packages/dev.msfjarvis.aps/) - Simple password manager that is compatible with [pass](https://www.passwordstore.org/).
+
+### 2FA and TOTP
+
+- [Aegis](https://github.com/beemdevelopment/Aegis) - Free, secure and open source 2FA app for Android.
+- [andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
+- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) - Free and open source 2FA app with support for Wear OS.
   
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
