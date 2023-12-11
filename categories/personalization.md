@@ -1,4 +1,18 @@
-## Personalization  
+## Personalisation
+
+- [Animated Theme Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation
+- [App Launcher](https://f-droid.org/en/packages/com.simplemobiletools.applauncher/) - A simple holder for your favourite app launchers.
+- [KISS Launcher](https://f-droid.org/en/packages/fr.neamar.kiss/) - Blazingly fast launcher focused on search.
+- [Lawnchair 2](https://lawnchair.app/) - Continuation of Lawnchair 1; Pixel features; fork of [Launcher3](https://github.com/amirzaidi/Launcher3).
+- [Lawndesk](https://github.com/renzhn/Lawndesk) - Fork of Lawnchair V2; app-drawer-free launcher.
+- [Librechair](https://gitlab.com/oldosfan/librechair) - Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3).
+- [LawnChair 12](https://github.com/LawnchairLauncher/lawnchair/releases) - Contininuation of LawnChair V2 with support for QuickSwitch and more. Includes a nice simple design that mimics the design of Google's Pixel launcher. Also includes in app Monet'like theming with themed icons(optional with a separate package called LawnIcons) and wallpaper based theming.
+- [Omega](https://github.com/otakuhqz/Omega) - Open-Source alternative to Nova Launcher
+- [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) - Launcher that aims to be a powerful and community driven project.
+- [Sentien Launcher](https://f-droid.org/en/packages/com.sentienhq.launcher/) - A quick, smart, minimalist Launcher, designed with your digital well-being in mind. 
+- [Taskbar](https://github.com/farmerbb/Taskbar) - A PC-style Launcher for Android.
+- [Arcticons](https://github.com/Donnnno/Arcticons) - A monotone line-based icon pack for android
+  
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
