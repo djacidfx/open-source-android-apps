@@ -1,6 +1,6 @@
 ## Advertisement blocking
 
-- [adblock ultimate](https://adblockultimate.net/) - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended).
+- [adblock ultimate](https://adblockultimate.net/) - Ad blocker for all your devices including android, windows, mac, linux, web browsers and more!
 - [Blokada](https://blokada.org/) - Ad blocker for Android using the VPN API.
 - [DNSfilter](https://www.zenz-solutions.de/personaldnsfilter/) - Ad blocker for Android using a VPN, supports hosts files.
 - [DNS66](https://jak-linux.org/projects/dns66/) - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts.
