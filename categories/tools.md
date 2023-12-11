@@ -14,6 +14,11 @@
 - [Simple Voice Recorder](https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder/) - An easy way of recording any discussion or sounds without ads or internet access.
 - [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
 - [Video-Transcoder](https://github.com/brarcher/video-transcoder) - Android app for video and audio transcoder, based on FFmpeg
+
+- ## Cameras
+
+- [Open Camera](https://opencamera.sourceforge.io/) - Camera app with DSLR features.
+- [Simple Camera](https://f-droid.org/en/packages/com.simplemobiletools.camera/) - A camera with flash, zoom and no ads.
     
 ### \#   
 App Name                   | Describe                  | Major Language             | Download
