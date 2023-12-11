@@ -1,4 +1,23 @@
-## Multi-Media  
+## Media Players
+
+- [mpv](https://mpv.io/) - Minimal media player.
+- [VLC](https://www.videolan.org/) - Minimal media player.
+- [NOVA](https://github.com/nova-video-player/aos-AVP) - Video player for local/network content with subtitle/metadata download support.
+
+## Music
+
+- [BlackHole](https://sangwan5688.github.io/BlackHole/) - Music Streaming and Downloading App.
+- [Metro](https://github.com/MuntashirAkon/Metro) - Fork of [Retro Music Player](#retro-music-player) with removed proprietary Google Play libraries.
+- [Music](https://github.com/MaxFour/Music-Player) - Lightweight and Material Music Player.
+- [Music Player GO](https://github.com/enricocid/Music-Player-GO) - A simple yet fully-featured local music player aiming at simplicity and performance.
+- [Odyssey Music Player](https://github.com/gateship-one/odyssey) - Lightweight music player.
+- [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer) - Local music player for Android.
+- [Shuttle Music Player](https://github.com/timusus/Shuttle) - Local music player for Android.
+- [Simple Music PLayer](https://f-droid.org/en/packages/com.simplemobiletools.musicplayer/) - A clean music player with a customizable widget.
+- [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) - It allows you to listen to radio streams.
+- [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer) - Local music player for Android.
+- [VLC](https://www.videolan.org/) - Minimal media player.
+
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
